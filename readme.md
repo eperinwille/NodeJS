@@ -1,4 +1,4 @@
-Configuraçã do projeto
+Configuracao do projeto
 
 Este arquivo Ã© importante para o projeto.
 
